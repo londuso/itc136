@@ -9,3 +9,5 @@ for i in $(ls); do
   i = i + 1
 done
 echo "There are $numOfFiles in this directory."
+
+echo “Hello world 2”
